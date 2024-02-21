@@ -1,0 +1,6 @@
+1. Webrtc 
+direclty connect karta h without backend 
+udp  peercode 
+
+peercode and then trnasfer kar sakte 
+
